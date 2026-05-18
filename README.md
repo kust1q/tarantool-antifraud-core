@@ -1,4 +1,4 @@
-# 🛡 Real-Time Anti-Fraud & Billing Engine
+# Real-Time Anti-Fraud & Billing Engine
 A high-performance, in-memory fraud prevention system built on Tarantool, Lua, C, and Perl. Designed to process transactions and apply complex business rules in under 1 millisecond.
 
 # Technologies
